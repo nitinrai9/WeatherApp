@@ -15,7 +15,7 @@ body
   background-image:url('./assets/images/back_pic.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: 0.4 ease-out;
+  transition: 0.4 ease;
 }
 
 .app.warm {
@@ -101,5 +101,8 @@ main
 }
 
 .weather-box .weather {
-  
+    color: #FFF;
+    font-size: 48px;
+    font-weight:700;
+    text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }

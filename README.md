@@ -1,2 +1,2 @@
-React Weather App -Nitin Rai
+React Weather App
 
